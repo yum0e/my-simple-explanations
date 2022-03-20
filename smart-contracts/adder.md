@@ -14,7 +14,7 @@ Let's dive in!
 
 Here is the Rust code of the smart contract that interests us:
 
-<blockquote>I assume that you have knowledge of Rust to follow this tutorial. If not, here is one of the best resource -> [Rust Book](https://doc.rust-lang.org/book/)<blockquote/>
+I assume that you have knowledge of Rust to follow this tutorial. If not, here is one of the best resource -> [Rust Book](https://doc.rust-lang.org/book/)
 
 ```rust
 #![no_std]
